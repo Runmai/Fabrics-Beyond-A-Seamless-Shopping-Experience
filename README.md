@@ -52,6 +52,5 @@ Fabrics Beyond is designed to mimic the frontend of a fashion e-commerce platfor
 <img width="1875" height="903" alt="Image3" src="https://github.com/user-attachments/assets/1d95c7b9-746d-4fe8-890f-1b310aa980c3" />
 
 # Website Video
-
-C:\Users\Amol\Videos\Captures
+"C:\Users\Amol\Videos\Captures\Online Shopping for Women, Men, Kids Fashion & Lifestyle - Myntra and 11 more pages - Personal - Microsoft​ Edge 2025-07-11 16-22-27.mp4"
 
