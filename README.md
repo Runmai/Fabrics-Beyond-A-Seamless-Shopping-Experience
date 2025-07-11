@@ -44,13 +44,6 @@ Fabrics Beyond is designed to mimic the frontend of a fashion e-commerce platfor
 
 ---
 
-## Getting Started
 
-To run this project locally, follow these steps:
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Edge, Safari)  
-- Git installed (optional, for cloning the repo)
 
 
